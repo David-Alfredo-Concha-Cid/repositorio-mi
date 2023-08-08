@@ -1,6 +1,6 @@
 # Mi Portafolio
 
-![image](https://github.com/David-Alfredo-Concha-Cid/mi-portafolio/assets/113479167/7086c42b-ec7e-44fe-badb-3fd48643c597)
+![Alt text](image.png)
 
 
 ## Descripción
