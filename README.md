@@ -8,10 +8,9 @@
 "En mi portafolio, encontrarás diversas secciones que reflejan mi perfil profesional y habilidades. Cada sección está cuidadosamente diseñada para destacar mi experiencia y logros. A continuación, te describo qué puedes encontrar en él:
 
 
-
 💥 Educación
 💥 Skills
-💥 Projectos
+💥 Proyectos
 💥 Contacto
 
 ## "¡Te invito a explorar mi portafolio en Vercel! 
@@ -22,11 +21,6 @@ https://mi-portafolio-gules.vercel.app/
 
 - HTML
 - CSS
-
-## Illustracione e imagenes 
-
-- [Undraw](https://undraw.co/)
-- [Hackerblock](https://hack.codingblocks.com/)
 
 
 
